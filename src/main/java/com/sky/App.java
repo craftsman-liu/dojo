@@ -1,4 +1,4 @@
-package com.sky.dojo;
+package com.sky;
 
 /**
  * Hello world!

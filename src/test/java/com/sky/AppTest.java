@@ -1,4 +1,4 @@
-package com.sky.dojo;
+package com.sky;
 
 import static org.junit.Assert.assertTrue;
 
